@@ -19,22 +19,22 @@ Freaquently Asked Questions
 Favorites
 Logout
 # Welcome Page
-![]()
+![](Welcome.jpg)
 # Login
-![]()
+![](Login.jpg)
 # Register Page
-![]()
+![](Register.jpg)
 # Forgot Password Page
-![]()
+![](Forgot%20-%20Password.jpg)
 # DashBoard Page
-![]()
+![](DashBoard.jpg)
 # Home Page
-![]()
+![](Home.jpg)
 # MyProfile Page
-![]()
+![](MyProfile.jpg)
 # FAQ Page
-![](FoodRunner/FAQ.jpg)
-# FAvorites Page
-![]()
+![](FAQ.jpg)
+# Favorites Page
+![](Favorite.jpg)
 # Logout Page
-![]()
+![](Logout.jpg)
