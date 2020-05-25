@@ -33,7 +33,7 @@ Logout
 # MyProfile Page
 ![]()
 # FAQ Page
-![]()
+![](FoodRunner/FAQ.jpg)
 # FAvorites Page
 ![]()
 # Logout Page
